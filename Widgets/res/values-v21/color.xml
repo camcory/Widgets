@@ -8,4 +8,12 @@
     <color name="holo_red_dark">#ffcc0000</color>
     
     <color name="list_separator">#f1f1f1</color>
+
+    <color name="material_grey_50">#fffafafa</color>
+    <color name="material_grey_300">#ffe0e0e0</color>
+    <color name="material_grey_850">#ff303030</color>
+    <color name="material_blue_grey_900">#ff263238</color>
+    <color name="material_blue_grey_950">#ff21272b</color>
+    <color name="material_deep_teal_500">#ff009688</color>
+
 </resources>
